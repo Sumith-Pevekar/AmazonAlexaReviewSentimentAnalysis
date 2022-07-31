@@ -1,5 +1,5 @@
 # AmazonAlexaReviewSentimentAnalysis
-This project will try to find the sentiment of the reviews posted by the users.
+This project will try to find the sentiment of the Alexa Echo reviews posted by the users.
 
 
 
